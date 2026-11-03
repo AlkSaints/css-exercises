@@ -1,1 +1,24 @@
-/* Add CSS Styling */
+.pnk {
+    background-color: rgb(255, 182, 193);
+}
+
+.fnt-sz {
+    font-size: 24px;
+}
+
+.fnt-fmly {
+    font-family: verdana, 
+    'DejaVu Sans', sans-serif;
+}
+
+#unique-hue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#unique-grn {
+    background-color: #90ee90;
+}
+.unique-fntw {
+    font-weight: bold;
+}
